@@ -1,7 +1,19 @@
-
 # StudyBuddy
 
 StudyBuddy is a companion bot designed to assist neurodivergent students and others in maintaining focus during study sessions. It enriches the learning environment with music, games, and more, making studying more engaging.
+
+## Image Gallery
+
+<!-- Row 1 with GIFs -->
+<p float="left">
+  <img src="images/3.gif" width="30%" alt="Description for GIF 1"> <!-- Image 1 -->
+  <img src="images/7.jpg" width="30%" alt="Description for Image 8"> <!-- Image 8 -->
+</p>
+
+
+
+
+## Flow Chart
 
 ![StudyBuddy Idea Map](images/flowchart.svg)
 
